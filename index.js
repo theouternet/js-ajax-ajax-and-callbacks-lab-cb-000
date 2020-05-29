@@ -1,5 +1,5 @@
 function displayError() {
-});	  $("#errors").html("<strong>I'm sorry, there's been an error. Please try again.</strong>");
+  $("#errors").html("<strong>I'm sorry, there's been an error. Please try again.</strong>");
 }
 
 function searchRepositories() {
